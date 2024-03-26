@@ -1,6 +1,3 @@
-import ThreeLayerTest
-
-"""
 from matplotlib import pyplot
 from keras.datasets import mnist
 
@@ -11,6 +8,6 @@ for i in range(9):
     pyplot.imshow(train_X[i], cmap=pyplot.get_cmap('gray'))
 
 pyplot.show()
-"""
 
-ThreeLayerTest.run()
+
+#ThreeLayerTest.run()
