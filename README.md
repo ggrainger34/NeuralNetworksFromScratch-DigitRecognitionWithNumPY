@@ -11,6 +11,10 @@ https://medium.com/@GGrainger/neural-networks-from-scratch-digit-recognition-wit
 ## Dependencies
 
 - Python 3.6+
+- keras 3.6.0
+- matplotlib 3.9.2
+- numpy 2.1.3
+- pygame 2.6.1
 
 ## Module Installation / Setup
 
