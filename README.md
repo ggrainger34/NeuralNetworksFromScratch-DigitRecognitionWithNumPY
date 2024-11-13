@@ -1,10 +1,11 @@
 # Neural Networks from Scratch - Digit Recognition with NumPY
 
-Hi! This is a project showcasing how a neural network can be implemented using nothing by NumPY and a little bit of maths.
+🧠 Hi! This is a project showcasing how a neural network can be implemented using nothing by NumPY and a little bit of maths.
 
 I hope you enjoy!
 
 The link to the tutorial can be found here:
+
 
 
 ## Dependencies
