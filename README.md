@@ -6,7 +6,7 @@ I hope you enjoy!
 
 The link to the tutorial can be found here:
 
-
+https://medium.com/@GGrainger/neural-networks-from-scratch-digit-recognition-with-numpy-d4053ddad4ab
 
 ## Dependencies
 
